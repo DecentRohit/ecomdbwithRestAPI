@@ -1,0 +1,3 @@
+
+ Wed May 01 2024 16:19:28 GMT+0530 (India Standard Time) - /api/products/rate?userID=2&productID=2&rating=4.5 - undefined
+ Wed May 01 2024 16:19:57 GMT+0530 (India Standard Time) - /api/products - undefined
